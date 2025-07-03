@@ -13,11 +13,11 @@
 * 🚀 Driven by relentless discipline and an unwavering dedication to mastery, I thrive on building impactful, modern applications that push boundaries.
 * 💡 Specializing in cutting-edge technologies like React, Next.js, and NestJS, I'm constantly exploring new tools to deliver clean, automated, and scalable code.
 
-  <hr>
+  
 
 ## ⚡ Technology Stack
 
-<br>
+<hr>
 
 ### ♦️ Languages
 
@@ -29,6 +29,7 @@
 
 ### ⚙️ Backend
 
+
 <div>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -38,6 +39,7 @@
 
 ### 🖥️ Frontend
 
+
 <div>
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -46,6 +48,7 @@
 
 ### 💾 Databases
 
+
 <div>
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -53,6 +56,7 @@
 <br>
 
 ### 🛠️ Tools
+
 
 <div>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -64,6 +68,7 @@
 
 ### ☁️ Cloud
 
+
 <div>
   <img src="https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </div>
@@ -71,11 +76,13 @@
 
 ### 📈 Methodologies
 
+
 <div>
   <img src="https://img.shields.io/badge/SCRUM-64B53E?style=for-the-badge&logo=none&logoColor=white" alt="SCRUM" /> </div>
 <br>
 
 ## 🗂️ Featured Projects
+<hr>
 
 ### 🏡 KasApp - Real Estate Platform
 <a href="[Link to KasApp Live Demo]" target="_blank">
@@ -100,6 +107,7 @@
 ## 🧠 My Approach
 <hr>
 
+
 * » Building robust applications with clean, highly scalable code.
 * » Combining great communication with high organizational skills for streamlined project execution.
 * » Fostering seamless collaboration as a dedicated team player.
@@ -109,13 +117,16 @@
 ## 🔗 Contact
 <hr>
 
+
 * 📧 [ecua_soul@yahoo.com]
 * 💼 [www.linkedin.com/in/diego-delgado-5b18ba369]
 * 🐙 [[GitHub](https://github.com/Dieg0DH)]
 
 <br>
+
 ## 📊 GitHub Stats
 <hr>
+
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ljbWtzMXNuM3A5NDlhdjkwYmMwaWJodWkzcW81M3o2ajllb2NsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Left Decorative GIF" width="200px" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Dieg0DH&show_icons=true&hide_border=false&count_private=true&theme=dark"
@@ -125,6 +136,7 @@
 
 ## 🔥 GitHub Streak
 <hr>
+
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5wNTk5NHVycmUyZGNzYzl2YXBpbXgycXp0YWFhM2prOW5vemhwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcY8khZDRnFss/giphy.gif" alt="Left Streak GIF" width="400px" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieg0DH&theme=dark&hide_border=false"
@@ -135,7 +147,7 @@
 
   
 ## 🏆 GitHub Trophies
-<hr>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dieg0DH&theme=darkhub&no-frame=true&column=7" alt="Dieg0DH's Trophies" />
 </div>
