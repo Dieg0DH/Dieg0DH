@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⚡ ♟️Dieg0DH | Diego Delgado ♟️⚡</h1>
+  <h1>⚡ Dieg0DH | Diego Delgado ⚡</h1>
   <br>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTQweTdxNjY0dDExZDJlMGk0ZWdqZW4yenNlem5veGIxeWNhdTNydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Animated Header" width="880" />
   <br>
@@ -151,3 +151,17 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dieg0DH&theme=darkhub&no-frame=true&column=7" alt="Dieg0DH's Trophies" />
 </div>
+<br>
+
+## 📁 All Repositories
+<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dieg0-DH&repo=PrepCourse-Henry&theme=dark" alt="PrepCourse-Henry Repo Pin" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dieg0-DH&repo=PrepCourse-NoReadme&theme=dark" alt="PrepCourse-NoReadme Repo Pin" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dieg0-DH&repo=fe-ct-prepcourse-fs&theme=dark" alt="fe-ct-prepcourse-fs Repo Pin" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dieg0-DH&repo=RepositorioHenry&theme=dark" alt="RepositorioHenry Repo Pin" />
+</div>
+<br>
