@@ -114,11 +114,10 @@
 * 🐙 [[GitHub](https://github.com/Dieg0DH)]
 
 <br>
-
 ## 📊 GitHub Stats
 <hr>
 <div align="center">
-  <img src="https://i.gifer.com/2GU.gif" alt="Left Decorative GIF" width="200px" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ljbWtzMXNuM3A5NDlhdjkwYmMwaWJodWkzcW81M3o2ajllb2NsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Left Decorative GIF" width="200px" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Dieg0DH&show_icons=true&hide_border=false&count_private=true&theme=dark"
        alt="Dieg0DH's GitHub Stats" />
 </div>
@@ -127,6 +126,7 @@
 ## 🔥 GitHub Streak
 <hr>
 <div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5wNTk5NHVycmUyZGNzYzl2YXBpbXgycXp0YWFhM2prOW5vemhwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcY8khZDRnFss/giphy.gif" alt="Left Streak GIF" width="400px" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieg0DH&theme=dark&hide_border=false"
        alt="Dieg0DH's GitHub Streak" />
 </div>
