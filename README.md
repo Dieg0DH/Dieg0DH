@@ -144,24 +144,3 @@
 </div>
 <br>
 
-
-  
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dieg0DH&theme=darkhub&no-frame=true&column=7" alt="Dieg0DH's Trophies" />
-</div>
-<br>
-
-## 📁 All Repositories
-<hr>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dieg0-DH&repo=PrepCourse-Henry&theme=dark" alt="PrepCourse-Henry Repo Pin" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dieg0-DH&repo=PrepCourse-NoReadme&theme=dark" alt="PrepCourse-NoReadme Repo Pin" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dieg0-DH&repo=fe-ct-prepcourse-fs&theme=dark" alt="fe-ct-prepcourse-fs Repo Pin" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dieg0-DH&repo=RepositorioHenry&theme=dark" alt="RepositorioHenry Repo Pin" />
-</div>
-<br>
