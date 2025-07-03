@@ -13,6 +13,8 @@
 * 🚀 Driven by relentless discipline and an unwavering dedication to mastery, I thrive on building impactful, modern applications that push boundaries.
 * 💡 Specializing in cutting-edge technologies like React, Next.js, and NestJS, I'm constantly exploring new tools to deliver clean, automated, and scalable code.
 
+  <hr>
+
 ## ⚡ Technology Stack
 
 <br>
@@ -116,7 +118,7 @@
 ## 📊 GitHub Stats
 <hr>
 <div align="center">
-  <img src="https://i.gifer.com/2GU.gif" alt="Right GIF" width="250px" />
+  <img src="https://i.gifer.com/2GU.gif" alt="Left Decorative GIF" width="200px" /> &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Dieg0DH&show_icons=true&hide_border=false&count_private=true&theme=dark"
        alt="Dieg0DH's GitHub Stats" />
 </div>
