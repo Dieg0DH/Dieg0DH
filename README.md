@@ -133,13 +133,6 @@
 <br>
 
 
-## 📈 Activity Overview
-<hr>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dieg0DH&theme=github-compact&hide_border=true" alt="Dieg0DH's Activity Graph" />
-</div>
-<br>
-
   
 ## 🏆 GitHub Trophies
 <hr>
