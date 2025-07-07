@@ -84,26 +84,6 @@
 ## 🗂️ Featured Projects
 <hr>
 
-### 🏡 KasApp - Real Estate Platform
-<a href="[Link to KasApp Live Demo]" target="_blank">
-  <img src="https://img.shields.io/badge/Production%20Website-28A745?style=for-the-badge" alt="Production Website Badge">
-</a>
-<img src="https://img.shields.io/badge/KASAPP-6A0DAD?style=for-the-badge" alt="KasApp Badge">
-
-**Technologies:** Next.js + NestJS + PostgreSQL
-
-**Features:**
-* Multi-role Administrative Panel
-* Intuitive Property Management with Drag & Drop
-* Secure JWT Authentication with Refresh Tokens & Google OAuth
-* Integrated Analytical Dashboard for Agents
-* Seamless Appointment Scheduling
-* Robust Image Management via Cloudinary
-* Integrated Payment & Subscription System (Stripe)
-* Responsive Design for All Devices
-
-<br>
-
 ## 🧠 My Approach
 <hr>
 
