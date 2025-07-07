@@ -81,8 +81,6 @@
   <img src="https://img.shields.io/badge/SCRUM-64B53E?style=for-the-badge&logo=none&logoColor=white" alt="SCRUM" /> </div>
 <br>
 
-## 🗂️ Featured Projects
-<hr>
 
 ## 🧠 My Approach
 <hr>
