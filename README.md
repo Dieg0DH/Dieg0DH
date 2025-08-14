@@ -97,7 +97,7 @@
 
 
 * 📧 [ecua_soul@yahoo.com]
-* 💼 [www.linkedin.com/in/diego-delgado-5b18ba369]
+* 💼 [www.linkedin.com/in/diego-delgado-dev]
 * 🐙 [[GitHub](https://github.com/Dieg0DH)]
 
 <br>
