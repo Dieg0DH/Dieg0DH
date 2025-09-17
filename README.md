@@ -10,7 +10,7 @@
 ## ✨ About Me
 
 * 👨‍💻 Full-stack developer learning daily... because even the “modern” stack keeps evolving, and staying sharp means staying humble.
-* 💡 And if, by day’s end, I helped save someone time, sparked an idea, or quietly inspired them to try something new? That’s my kind of win.
+* 💡 And if, by day’s end, I helped save someone time, sparked an idea, or quietly inspired them to try something new? Today was great.
 * 🔁 I’ve got a long way to go, but every step forward is a win-win. For me, for the team, for the community. Keep going!
 
   
