@@ -9,9 +9,7 @@
 
 ## ✨ About Me
 
-* 👨‍💻 Full-stack developer learning daily... because even the “modern” stack keeps evolving, and staying sharp means staying humble.
-* 💡 And if, by day’s end, I helped save someone time, sparked an idea, or quietly inspired them to try something new? Today was great.
-* 🔁 I’ve got a long way to go, but every step forward is a win-win. For me, for the team, for the community. Keep going!
+* 👨‍💻 Full-stack developer learning daily... because technology keeps evolving, and staying sharp means staying humble.
 
   
 
@@ -86,9 +84,9 @@
 <hr>
 
 
-* » Building robust applications with clean, highly scalable code.
-* » Combining great communication with high organizational skills for streamlined project execution.
-* » Fostering seamless collaboration as a dedicated team player.
+* » Code that outlives sprints.
+* » Clarity over cleverness.
+* » Team velocity > individual heroics.
 
 <br>
 
