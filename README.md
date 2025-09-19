@@ -9,7 +9,7 @@
 
 ## ✨ About Me
 
-* 👨‍💻 Full-stack developer learning daily... because technology keeps evolving, and staying sharp means staying humble.
+* 👨‍💻 Full-stack developer learning daily... because "technology" keeps evolving, and staying sharp means staying humble.
 
   
 
