@@ -116,7 +116,7 @@
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5wNTk5NHVycmUyZGNzYzl2YXBpbXgycXp0YWFhM2prOW5vemhwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcY8khZDRnFss/giphy.gif" alt="Left Streak GIF" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieg0DH&theme=dark&hide_border=false" alt="Dieg0DH's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dieg0DH&theme=dark&hide_border=false" alt="Dieg0DH's GitHub Streak" />
 </div>
 <br>
 
