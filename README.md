@@ -111,7 +111,7 @@
 
 <br>
 
-## 🔥 GitHub Streak
+**## 🔥 GitHub Streak
 <hr>
 
 <div align="center">
@@ -123,5 +123,5 @@
        alt="Dieg0DH's GitHub Streak" 
        height="170" />
 </div>
-<br>
+<br>**
 
