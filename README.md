@@ -99,21 +99,16 @@
 * 🐙 [[GitHub](https://github.com/Dieg0DH)]
 
 <br>
+
+
 <br>
  ## 📊 GitHub Stats
-
 <hr>
 
-
 <div align="center">
-
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ljbWtzMXNuM3A5NDlhdjkwYmMwaWJodWkzcW81M3o2ajllb2NsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Left Decorative GIF" width="200" />
-
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ljbWtzMXNuM3A5NDlhdjkwYmMwaWJodWkzcW81M3o2ajllb2NsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Left Decorative GIF" width="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Dieg0DH&show_icons=true&hide_border=false&count_private=true&theme=dark" alt="Dieg0DH's GitHub Stats" />
-
 </div>
-
-
 <br> 
 
 <br>
