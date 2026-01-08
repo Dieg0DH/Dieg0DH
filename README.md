@@ -111,17 +111,17 @@
 
 <br>
 
-**## 🔥 GitHub Streak
+## 🔥 GitHub Streak
 <hr>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV2MTVkMnJwZGZ5ZjBudWluNjJmcm91ZGRya3F6bzR5ZTRxYmduaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WN16kBTKVAEuI/giphy.gif" 
-       alt="Bonfire GIF" 
-       height="170" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZoY2E1dml0bDR6bXFjd3c2eHg1MXhwanVmcmcxbmMyNTloaDVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wcY8khZDRnFss/giphy.gif" 
+       alt="Campfire GIF" 
+       height="165" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieg0DH&theme=dark&hide_border=false" 
        alt="Dieg0DH's GitHub Streak" 
-       height="170" />
+       height="165" />
 </div>
-<br>**
+<br>
 
