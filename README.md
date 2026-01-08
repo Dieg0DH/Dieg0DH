@@ -102,7 +102,8 @@
 
 
 <br>
- ## 📊 GitHub Stats
+
+## 📊 GitHub Stats
 <hr>
 
 <div align="center">
