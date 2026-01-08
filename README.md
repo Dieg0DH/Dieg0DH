@@ -108,13 +108,11 @@
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ljbWtzMXNuM3A5NDlhdjkwYmMwaWJodWkzcW81M3o2ajllb2NsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Left Decorative GIF" width="200"/>
-  
-   <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dieg0DH&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=dark" 
-       alt="Dieg0DH's GitHub Stats" /> 
+       alt="Dieg0DH's GitHub Stats" 
+       height="200" /> 
 </div>
 
-</div> 
 <br> 
 
 <br>
