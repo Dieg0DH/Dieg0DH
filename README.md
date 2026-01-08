@@ -1,7 +1,7 @@
 <div align="center">
   <h1>⚡ Dieg0DH | Diego Delgado ⚡</h1>
   <br>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTQweTdxNjY0dDExZDJlMGk0ZWdqZW4yenNlem5veGIxeWNhdTNydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Animated Header" width="880" />
+  <img src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="Animated Header" width="880" />
   <br>
   📍 Guayaquil, Ecuador
 </div>
