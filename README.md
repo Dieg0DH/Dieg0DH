@@ -115,8 +115,13 @@
 <hr>
 
 <div align="center">
-  <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ljbWtzMXNuM3A5NDlhdjkwYmMwaWJodWkzcW81M3o2ajllb2NsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV2MTVkMnJwZGZ5ZjBudWluNjJmcm91ZGRya3F6bzR5ZTRxYmduaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WN16kBTKVAEuI/giphy.gif)" alt="Left Decorative GIF" width="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dieg0DH&show_icons=true&hide_border=false&count_private=true&theme=dark" alt="Dieg0DH's GitHub Stats" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV2MTVkMnJwZGZ5ZjBudWluNjJmcm91ZGRya3F6bzR5ZTRxYmduaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WN16kBTKVAEuI/giphy.gif" 
+       alt="Bonfire GIF" 
+       height="170" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dieg0DH&theme=dark&hide_border=false" 
+       alt="Dieg0DH's GitHub Streak" 
+       height="170" />
 </div>
 <br>
 
