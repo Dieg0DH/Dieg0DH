@@ -125,7 +125,7 @@
        alt="Campfire GIF" 
        height="170" />
   
- <img src="https://streak-stats.demolab.com/?user=Dieg0DH&theme=dark&hide_border=false&mode=commits" 
+ <img src="https://github-readme-streak-stats.vercel.app/?user=Dieg0DH&theme=dark&hide_border=false&mode=commits" 
      alt="Dieg0DH's GitHub Streak" 
      height="200" />
 </div>
