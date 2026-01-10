@@ -125,9 +125,11 @@
        alt="Campfire GIF" 
        height="170" />
   
- <img src="https://github-readme-streak-stats.vercel.app/?user=Dieg0DH&theme=dark&hide_border=false&mode=commits" 
-     alt="Dieg0DH's GitHub Streak" 
-     height="200" />
+ <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Dieg0DH&theme=dark&hide_border=false&mode=commits" 
+       alt="Dieg0DH's GitHub Streak" 
+       height="200" />
+</a>
 </div>
 <br>
 
